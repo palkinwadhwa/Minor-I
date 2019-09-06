@@ -1,1 +1,2 @@
-# Minor-I
+# LearningGit
+I am learning git.
